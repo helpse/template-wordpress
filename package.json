@@ -1,0 +1,14 @@
+{
+  "name": "template-wordpress",
+  "version": "0.0.1",
+  "description": "Plantilla de desarrollo para temas Wordpress",
+  "author": {
+    "name": "Sergio Melendez",
+    "email": "helpse@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-connect": "^2.0.6"
+  }
+}
